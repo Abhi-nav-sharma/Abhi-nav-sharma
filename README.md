@@ -22,15 +22,14 @@
 
 ### **Interests**
 - Playing Basketball :basketball:
-- Quora 📱:
 - Exploring 🌏:
 - traveling ✈️:
 
-### **Also find me on**[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav2507/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">AbhinavSharma@email.com]
+### **Also find me on** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav2507/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhinav.sharma0034@gmail.com]
 
 
 <!--
-**sumant236/sumant236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abhi-nav-sharma/Abhi-nav-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
